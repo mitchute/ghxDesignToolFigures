@@ -1,1 +1,2 @@
-Typical_CU, Best_CU, Worst_CU
+CU, CU_Typical, CU_Best, CU_Worst
+HDPE, HDPE_Typical, HDPE_Best, HDPE_Worst
